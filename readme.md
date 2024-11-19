@@ -1,8 +1,10 @@
 Sesion 12
 
+Preguntas
+
 part1.html
 ¿Cómo se modifica el código para calcular el promedio de los números?
-Se inicializa la variable promedio 
+Se inicializa la variable promedio
 let promedio = suma /numeros.length
 
 part2.html
